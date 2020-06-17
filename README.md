@@ -7,8 +7,8 @@
 # Geovani Gomes
 <sub> </sub>
 
-Sou formado como Analista de Desenvolvimento de Sistemas. Atualmente atuo com desenvolimento em c# em projeto de médio a grande porte.
-Em paralelo estou me aperfeiçoando nesse universo de Ciências de dados que é um ambiente fora do meu cotidiano por enquanto. :)
+Sou formado como Analista de Desenvolvimento de Sistemas. Atualmente atuo com desenvolvimento em c# em projeto de médio a grande porte.
+Em paralelo estou me aperfeiçoando nesse universo de Ciências de dados que é em breve fará parte do meu cotidiano. :)
 Minha Expectativa é unir o meu background que possuo hoje com os novos conhecimento em Ciências de Dados. E poder conseguir extrair insights valiosos que fazem a diferença.
 
 **Background in:** Python, C#, Visualização de Dados.
