@@ -21,4 +21,4 @@ Minha Expectativa é unir o meu background que possuo hoje com os novos conhecim
 
 ## Projetos:
 
-* **Analise de Dados Airbnb Montreal:** Em Breve.
+* **[Analise de Dados Airbnb Montreal:](https://github.com/geovaniGomes/Data_Science/blob/master/Analisando_os_Dados_do_Airbnb_Montreal_Canada.ipynb)**
