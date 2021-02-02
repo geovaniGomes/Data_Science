@@ -21,4 +21,6 @@ Minha Expectativa é unir o meu background que possuo hoje com os novos conhecim
 
 ## Projetos:
 
-* **[Analise de Dados Airbnb Montreal](https://github.com/geovaniGomes/Data_Science/blob/master/Analisando_os_Dados_do_Airbnb_Montreal_Canada.ipynb)**
+* **[Análise de Dados Airbnb Montreal](https://github.com/geovaniGomes/Data_Science/blob/master/Analisando_os_Dados_do_Airbnb_Montreal_Canada.ipynb)**
+
+* **[Análise dos dados de refugiados no Brasil](https://github.com/geovaniGomes/Solicitacao_rejugiados_Brasil/blob/main/Solicita%C3%A7%C3%B5es_refugio_BR.ipynb)**
